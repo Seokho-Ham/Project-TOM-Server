@@ -28,43 +28,9 @@
   - 소비자들은 꽃에 대한 정보를 잘 모르기 때문에 그 부분에 대한 정보를 제공해 줄 수 있다.
 
 ---
-### :four_leaf_clover:팀원 소개
-  
-#### 팀장 : 심다슬
 
-- 사진
-- Role : Team Leader
-- Works :
-  - 상품배너, 베스트상품관련 API 구현
-  - 테스트 케이스 작성(회원가입, 로그인, 로그아웃, 회원탈퇴, email중복체크, 상품배너, 베스트상품 API)
-  - 상품상세페이지 API 구현
-  - 회원 정보 수정, 회원정보수정시 재인증 API 구현
-  - 판매중인 상품관련 API 구현
-  - QnA, reply(CRUD) API 구현
-  - 배송관련(배송조회, 배송상태, 구매확정) API 구현
-  - 상품이미지 샘플 찾기
-  - 상품상세페이지 샘플 제작, 배너 제작
-  - API, Wiki, ReadMe 문서 작성
-- Pair Work :
-  - API 설계 
-  - DB 스키마 설계
-  - Server, DB 초기 세팅
-- Tech-Presentation Topic : 
+개발 시 맡은 역할
 
-#### 팀원 : 정근석
-
-- 사진
-- Role : Team Member
-- Works :
-  - a
-  - b
-  - c
-- Tech-Presentation Topic : 
-
-#### 팀원 : 함석호
-
-- 사진
-- Role : Team Member
 - Works :
   - 회원가입,이메일 체크, 로그인, 로그아웃, 회원탈퇴 API 구현
   - 구글 소셜 로그인 구현
@@ -80,17 +46,6 @@
   - API 설계
   - DB 스키마 설계
   - Server, DB 초기 세팅
-- Tech-Presentation Topic : 
-
-#### 팀원 : 황선주
-
-- 사진
-- Role : Team Member
-- Works :
-  - a
-  - b
-  - c
-- Tech-Presentation Topic : 
 
 ---   
 ### :four_leaf_clover:와이어 프레임
